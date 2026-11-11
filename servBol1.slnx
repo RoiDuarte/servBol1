@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="servBol1/servBol1ej2.csproj" />
+  <Project Path="servBol1ej2/servBol1ej3.csproj" Id="bb82c147-7b8a-43e9-8658-cdb34d4e4b74" />
+  <Project Path="servBol1ej4/servBol1ej4.csproj" Id="fd4c70c9-e470-4be8-8d78-9a23b505b10a" />
+  <Project Path="servBol1ej5/servBol1ej5.csproj" Id="5846f9d5-94bc-4bff-82b9-e4751b524e6e" />
+</Solution>

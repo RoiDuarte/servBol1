@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C70C9-E470-4BE8-8D78-9A23B505B10A}|servBol1ej4\\servBol1ej4.csproj|d:\\dam\\segundo\\servizos\\proxectos\\servbol1\\servbol1ej4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C70C9-E470-4BE8-8D78-9A23B505B10A}|servBol1ej4\\servBol1ej4.csproj|solutionrelative:servbol1ej4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB82C147-7B8A-43E9-8658-CDB34D4E4B74}|servBol1ej2\\servBol1ej3.csproj|d:\\dam\\segundo\\servizos\\proxectos\\servbol1\\servbol1ej2\\servbol1ej3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB82C147-7B8A-43E9-8658-CDB34D4E4B74}|servBol1ej2\\servBol1ej3.csproj|solutionrelative:servbol1ej2\\servbol1ej3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D81B1FC-9BAC-DC49-F363-6A8E8D398686}|servBol1\\servBol1ej2.csproj|d:\\dam\\segundo\\servizos\\proxectos\\servbol1\\servbol1\\servbol1ej2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D81B1FC-9BAC-DC49-F363-6A8E8D398686}|servBol1\\servBol1ej2.csproj|solutionrelative:servbol1\\servbol1ej2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB82C147-7B8A-43E9-8658-CDB34D4E4B74}|servBol1ej2\\servBol1ej3.csproj|d:\\dam\\segundo\\servizos\\proxectos\\servbol1\\servbol1ej2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB82C147-7B8A-43E9-8658-CDB34D4E4B74}|servBol1ej2\\servBol1ej3.csproj|solutionrelative:servbol1ej2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D81B1FC-9BAC-DC49-F363-6A8E8D398686}|servBol1\\servBol1ej2.csproj|d:\\dam\\segundo\\servizos\\proxectos\\servbol1\\servbol1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D81B1FC-9BAC-DC49-F363-6A8E8D398686}|servBol1\\servBol1ej2.csproj|solutionrelative:servbol1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5846F9D5-94BC-4BFF-82B9-E4751B524E6E}|servBol1ej5\\servBol1ej5.csproj|d:\\dam\\segundo\\servizos\\proxectos\\servbol1\\servbol1ej5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5846F9D5-94BC-4BFF-82B9-E4751B524E6E}|servBol1ej5\\servBol1ej5.csproj|solutionrelative:servbol1ej5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "servBol1ej2",
+              "DocumentMoniker": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\servBol1\\servBol1ej2.csproj",
+              "RelativeDocumentMoniker": "servBol1\\servBol1ej2.csproj",
+              "ToolTip": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\servBol1\\servBol1ej2.csproj",
+              "RelativeToolTip": "servBol1\\servBol1ej2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T08:12:29.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\servBol1ej5\\Program.cs",
+              "RelativeDocumentMoniker": "servBol1ej5\\Program.cs",
+              "ToolTip": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\servBol1ej5\\Program.cs",
+              "RelativeToolTip": "servBol1ej5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T20:45:42.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\servBol1ej4\\Program.cs",
+              "RelativeDocumentMoniker": "servBol1ej4\\Program.cs",
+              "ToolTip": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\servBol1ej4\\Program.cs",
+              "RelativeToolTip": "servBol1ej4\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T12:11:31.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "servBol1ej3.csproj",
+              "DocumentMoniker": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\servBol1ej2\\servBol1ej3.csproj",
+              "RelativeDocumentMoniker": "servBol1ej2\\servBol1ej3.csproj",
+              "ToolTip": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\servBol1ej2\\servBol1ej3.csproj",
+              "RelativeToolTip": "servBol1ej2\\servBol1ej3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-05T08:29:09.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\servBol1ej2\\Program.cs",
+              "RelativeDocumentMoniker": "servBol1ej2\\Program.cs",
+              "ToolTip": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\servBol1ej2\\Program.cs",
+              "RelativeToolTip": "servBol1ej2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T08:28:33.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\servBol1\\Program.cs",
+              "RelativeDocumentMoniker": "servBol1\\Program.cs",
+              "ToolTip": "D:\\DAM\\segundo\\Servizos\\Proxectos\\servBol1\\servBol1\\Program.cs",
+              "RelativeToolTip": "servBol1\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwFMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:19:14.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

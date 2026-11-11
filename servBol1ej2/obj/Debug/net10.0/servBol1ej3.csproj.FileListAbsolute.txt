@@ -1,0 +1,15 @@
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\bin\Debug\net10.0\servBol1ej3.exe
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\bin\Debug\net10.0\servBol1ej3.deps.json
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\bin\Debug\net10.0\servBol1ej3.runtimeconfig.json
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\bin\Debug\net10.0\servBol1ej3.dll
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\bin\Debug\net10.0\servBol1ej3.pdb
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\obj\Debug\net10.0\servBol1ej3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\obj\Debug\net10.0\servBol1ej3.AssemblyInfoInputs.cache
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\obj\Debug\net10.0\servBol1ej3.AssemblyInfo.cs
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\obj\Debug\net10.0\servBol1ej3.csproj.CoreCompileInputs.cache
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\obj\Debug\net10.0\servBol1ej3.dll
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\obj\Debug\net10.0\refint\servBol1ej3.dll
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\obj\Debug\net10.0\servBol1ej3.pdb
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\obj\Debug\net10.0\servBol1ej3.genruntimeconfig.cache
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\obj\Debug\net10.0\ref\servBol1ej3.dll
+D:\DAM\segundo\Servizos\Proxectos\servBol1\servBol1ej2\obj\Debug\net10.0\servBol1.5357B4F3.Up2Date
